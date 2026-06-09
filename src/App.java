@@ -1,7 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception {
         //Excepciones: Eventos que interrumpen el flujo normal de la aplicacion
-
+        //Excepciones de tipo unchecked
         int numero1 = 5;
         int numero2 = 0;
         int resultado;
